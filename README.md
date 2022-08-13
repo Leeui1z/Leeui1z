@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Leeui1z/Leeui1z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=Slice&color=timeGradient&height=300&section=header&text=Lee%20Euikyung&fontSize=90&rotate=20)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=timeGradient&height=300&section=header&text=Lee%20Euikyung&fontSize=90&rotate=19.5&fontAlignY=38&fontAlign=68)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leeui1z&show_icons=true&theme=aura_dark)
 ##  💪 Skill
