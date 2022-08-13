@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 ###  Tool & Language
 <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor=White"/> | <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=White"/></a> | </a><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=White"/></a> 
 ## :mailbox_with_mail: Contacts
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/flowerriv)]([https://soo-vely-dev.tistory.com/](https://blog.naver.com/flowerriv))
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/flowerriv)]([https://soo-vely-dev.tistory.com/](https://blog.naver.com/flowerriv))
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:official.leeui@gmail.com)](mailto:official.leeui@gmail.com)
