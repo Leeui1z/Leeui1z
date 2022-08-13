@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leeui1z&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leeui1z&show_icons=true&theme=monokai)
 ### Platform & Language
 <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor=White"/></a><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=White"/></a> 
 ### Tool
